@@ -1,0 +1,10 @@
+title: Cognitive Metascience Lab
+description: Cognitive Metascience Lab, Institute of Philosophy and Sociology, Polish Academy of Sciences
+theme: minima
+
+markdown: GFM
+
+baseurl: "/docs"
+
+header_pages:
+  - README.md
