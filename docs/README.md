@@ -91,3 +91,7 @@ Miłkowski, M. (2018, November 25). *Replicability or reproducibility? On the r
 Are you a student in the Cognitive Science program at the University of Warsaw looking for a new project? Work with me on projects related to cognitive metascience, using language technology and digital philosophy of science. Contact me if you're interested.
 
 Research stays for students in my lab are also available.
+
+## An Overview of Essential Resources for the Study of Cognitive Metascience
+
+We maintain a [list of awesome resources for cognitive metascience](https://cognitive-metascience.github.io/awesome-cog-metascience).
