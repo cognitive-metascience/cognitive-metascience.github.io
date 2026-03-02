@@ -1,4 +1,4 @@
-# Cognitive Metascience Lab
+# ![logo](logo_small.png) Cognitive Metascience Lab
 ## Part of the [Section for Logic and Cognitive Science, Polish Academy of Sciences ](https://ifispan.pl/en/filozofia/logic-and-cognitive-science/)
 
 The goal of cognitive metascience is to unite cognitive science, philosophy of science, digital philosophy of science, and digital humanities to explore how researchers reflect on their scientific practice and provide normative guidance during the credibility crisis.
