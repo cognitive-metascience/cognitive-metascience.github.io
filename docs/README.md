@@ -62,6 +62,8 @@ A pure [Python open source reimplementation of word sketches ](https://github.
 
 ## Talks
 
+Miłkowski, M. (27-30 August 2025), Functional Atlas of Theories, 10th biennial meeting of the European Philosophy of Science Association, EPSA25, University of Groningen
+
 Rorot, W., & Miłkowski, M. (2024, June 18). How predictive can understanding be in scientific practice? 6th SURe Workshop, London School of Economics,
 London, UK.
 
