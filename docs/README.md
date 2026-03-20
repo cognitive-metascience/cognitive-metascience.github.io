@@ -20,6 +20,12 @@ Here are some corpora we released:
 
 The MDPI data set in the version 2 is much bigger – the crawler we used was upgraded to find more data. It is probably the biggest open peer review corpus out there. If you are using our datasets, please cite them using the DOI number.
 
+### Publication corpora
+
+Here is a corpus one can use with our [ConceptSketch](https://github.com/cognitive-metascience/concept-sketch) software:
+
+* Frontiers in Psychology Corpus, <https://doi.org/10.18150/4LJ9WD>
+
 ## Software
 
 A pure [Python open source reimplementation of word sketches ](https://github.com/cognitive-metascience/word_sketch)(collocation) for corpora of arbitrary size, just the kind you would expect in [SketchEngine](https://www.sketchengine.eu/). However, by using our code, you can:
